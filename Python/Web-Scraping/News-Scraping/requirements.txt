@@ -1,0 +1,5 @@
+newspaper3k
+feedparser
+pandas
+lxml
+lxml_html_clean
