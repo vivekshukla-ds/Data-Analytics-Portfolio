@@ -1,0 +1,8 @@
+
+---
+
+## 📄 requirements.txt (Draft)
+
+```text
+requests
+beautifulsoup4
